@@ -24,9 +24,6 @@ Actions and Reducers: Actions are dispatched to update the Redux store, while re
 - Interactive UI: Implements TouchableOpacity for interactive elements, improving user engagement with responsive touch feedback.
 
 </list>
-<h2Preview:></h2Preview:>
-
-https://github.com/beyzasuna19/GetirClone/issues/4#issue-2764251079
 
 
 
