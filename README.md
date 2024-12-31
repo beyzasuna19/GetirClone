@@ -24,5 +24,6 @@ Actions and Reducers: Actions are dispatched to update the Redux store, while re
 - Interactive UI: Implements TouchableOpacity for interactive elements, improving user engagement with responsive touch feedback.
 
 </list>
-
+<h2>Preview:</h2>
+Uploading screen-20241231-132435.mp4…
 
