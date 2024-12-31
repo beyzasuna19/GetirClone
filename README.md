@@ -25,6 +25,4 @@ Actions and Reducers: Actions are dispatched to update the Redux store, while re
 
 </list>
 
-<h2>Preview:</h2>
 
-![](image.gif)
