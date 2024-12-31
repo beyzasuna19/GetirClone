@@ -25,5 +25,5 @@ Actions and Reducers: Actions are dispatched to update the Redux store, while re
 
 </list>
 <h2>Preview:</h2>
-Uploading screen-20241231-132435.mp4…
+![screen-20241231-132435 (1)](https://github.com/user-attachments/assets/3fa97353-0480-4f55-bc17-b5e81dfd8c0d)
 
