@@ -25,7 +25,7 @@ Actions and Reducers: Actions are dispatched to update the Redux store, while re
 
 </list>
 <h2Preview:></h2Preview:>
-https://github.com/user-attachments/assets/7436a221-7d8e-49d6-87b1-2536982d679a
+https://github.com/beyzasuna19/GetirClone/issues/3#issue-2764245637
 
 
 
